@@ -17,25 +17,24 @@
   <img src="https://img.shields.io/badge/CSS3-090D16?style=for-the-badge&amp;logo=css3&amp;logoColor=E2E8F0" alt="CSS3" />
 </p>
 
-<p align="center">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/thomas-orogan/thomas-orogan/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<h2>🦇 About Me</h2>
+<p>Software engineering graduate from Nigeria, focused on Python, AI, automation, and full-stack web development.</p>
+<p><strong>Mission:</strong> Building high-performance applications and intelligent automation systems with thoughtful, dark-mode-first design.</p>
+<p><strong>Core stack:</strong> Python, JavaScript, HTML, and CSS<br />
+<strong>Focus:</strong> AI-powered tools, automation, and web platforms</p>
 
+<h2>🚀 Selected Projects</h2>
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h2>🦇 About Me</h2>
-      <p>Software engineering graduate from Nigeria, focused on Python, AI, automation, and full-stack web development.</p>
-      <p><strong>Mission:</strong> Building high-performance applications and intelligent automation systems with thoughtful, dark-mode-first design.</p>
-      <ul>
-        <li><strong>Core stack:</strong> Python, JavaScript, HTML, and CSS</li>
-        <li><strong>Focus:</strong> AI-powered tools, automation, and web platforms</li>
-        <li><strong>Currently:</strong> Building useful products and learning by shipping</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/thomas-orogan/python-calculator">Python Calculator</a></h3>
+      <p>A simple calculator project.</p>
+      <p><code>Python</code></p>
     </td>
-    <td width="40%" align="center" valign="top">
-      <h2>📊 GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=thomas-orogan&amp;show_icons=true&amp;theme=gotham&amp;hide_border=true&amp;title_color=E2E8F0&amp;text_color=94A3B8&amp;bg_color=090D16" width="100%" alt="GitHub statistics" />
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/thomas-orogan/Calculator">Calculator</a></h3>
+      <p>A simple calculator project.</p>
+      <p><a href="https://github.com/thomas-orogan/Calculator">Explore the repository</a></p>
     </td>
   </tr>
 </table>
