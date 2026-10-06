@@ -23,21 +23,12 @@
 <p><strong>Core stack:</strong> Python, JavaScript, HTML, and CSS<br />
 <strong>Focus:</strong> AI-powered tools, automation, and web platforms</p>
 
-<h2>🚀 Selected Projects</h2>
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thomas-orogan/python-calculator">Python Calculator</a></h3>
-      <p>A simple calculator project.</p>
-      <p><code>Python</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thomas-orogan/Calculator">Calculator</a></h3>
-      <p>A simple calculator project.</p>
-      <p><a href="https://github.com/thomas-orogan/Calculator">Explore the repository</a></p>
-    </td>
-  </tr>
-</table>
+<h2>🎯 Areas of Focus</h2>
+<ul>
+  <li>Python development and practical software engineering</li>
+  <li>AI-assisted tools and intelligent automation</li>
+  <li>Responsive, full-stack web applications</li>
+</ul>
 
 <h2 align="center">📡 Connect with Me</h2>
 <p align="center">
