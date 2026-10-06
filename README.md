@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=E2E8F0&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=BUILDING+INTELLIGENT+SYSTEMS;SOFTWARE+ENGINEER;PYTHON+%26+AI+DEVELOPER;AUTOMATION+SPECIALIST" alt="Software engineer, Python and AI developer, automation specialist" />
+</p>
 
-<!--
-**thomas-orogan/thomas-orogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🦇 TIMILEHIN THOMAS-OROGAN 🦇</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <code><strong>SOFTWARE ENGINEERING GRADUATE</strong></code> •
+  <code><strong>PYTHON &amp; AI ENTHUSIAST</strong></code> •
+  <code><strong>FULL-STACK DEVELOPER</strong></code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-090D16?style=for-the-badge&amp;logo=python&amp;logoColor=E2E8F0" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-090D16?style=for-the-badge&amp;logo=javascript&amp;logoColor=E2E8F0" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-090D16?style=for-the-badge&amp;logo=html5&amp;logoColor=E2E8F0" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-090D16?style=for-the-badge&amp;logo=css3&amp;logoColor=E2E8F0" alt="CSS3" />
+</p>
+
+<p align="center">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/thomas-orogan/thomas-orogan/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>🦇 About Me</h2>
+      <p>Software engineering graduate from Nigeria, focused on Python, AI, automation, and full-stack web development.</p>
+      <p><strong>Mission:</strong> Building high-performance applications and intelligent automation systems with thoughtful, dark-mode-first design.</p>
+      <ul>
+        <li><strong>Core stack:</strong> Python, JavaScript, HTML, and CSS</li>
+        <li><strong>Focus:</strong> AI-powered tools, automation, and web platforms</li>
+        <li><strong>Currently:</strong> Building useful products and learning by shipping</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <h2>📊 GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=thomas-orogan&amp;show_icons=true&amp;theme=gotham&amp;hide_border=true&amp;title_color=E2E8F0&amp;text_color=94A3B8&amp;bg_color=090D16" width="100%" alt="GitHub statistics" />
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">📡 Connect with Me</h2>
+<p align="center">
+  <a href="https://github.com/thomas-orogan"><img src="https://img.shields.io/badge/GitHub-090D16?style=for-the-badge&amp;logo=github&amp;logoColor=E2E8F0" alt="GitHub profile" /></a>
+</p>
