@@ -6,8 +6,7 @@
 
 <p align="center">
   <code><strong>SOFTWARE ENGINEERING GRADUATE</strong></code> •
-  <code><strong>PYTHON &amp; AI ENTHUSIAST</strong></code> •
-  <code><strong>FULL-STACK DEVELOPER</strong></code>
+  <code><strong>PYTHON &amp; AI ENTHUSIAST</strong></code>
 </p>
 
 <p align="center">
