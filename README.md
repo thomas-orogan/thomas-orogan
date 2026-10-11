@@ -18,10 +18,10 @@
 </p>
 
 <h2>🦇 About Me</h2>
-<p>Software engineering graduate from Nigeria, focused on Python, AI, automation, and full-stack web development.</p>
-<p><strong>Mission:</strong> Building high-performance applications and intelligent automation systems with thoughtful, dark-mode-first design.</p>
-<p><strong>Core stack:</strong> Python, JavaScript, HTML, and CSS<br />
-<strong>Focus:</strong> AI-powered tools, automation, and web platforms</p>
+<p>Software Engineering graduate from Nigeria with a growing focus on Python development, AI, and intelligent automation.</p>
+<p><strong>Mission:</strong> Building useful software, AI-powered applications, and automation systems that solve real-world problems.</p>
+<p><strong>Technologies:</strong> Python, JavaScript, HTML, and CSS.</p>
+<p><strong>Current Focus:</strong> Strengthening Python programming skills, building practical projects, and exploring AI development and workflow automation.</p>
 
 <h2>🎯 Areas of Focus</h2>
 <ul>
@@ -34,5 +34,3 @@
 <p align="center">
   <a href="https://github.com/thomas-orogan"><img src="https://img.shields.io/badge/GitHub-090D16?style=for-the-badge&amp;logo=github&amp;logoColor=E2E8F0" alt="GitHub profile" /></a>
 </p>
-
-  
