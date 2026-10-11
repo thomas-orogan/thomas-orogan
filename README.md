@@ -33,4 +33,6 @@
 <h2 align="center">📡 Connect with Me</h2>
 <p align="center">
   <a href="https://github.com/thomas-orogan"><img src="https://img.shields.io/badge/GitHub-090D16?style=for-the-badge&amp;logo=github&amp;logoColor=E2E8F0" alt="GitHub profile" /></a>
+    <a href="https://linkedin.com/in/timilehin-thomas-orogan-926695426"><img src="https://img.shields.io/badge/LinkedIn-090D16?style=for-the-badge&amp;logo=linkedin&amp;logoColor=E2E8F0" alt="LinkedIn" /></a>
+  <a href="mailto:tthomasorogan@gmail.com"><img src="https://img.shields.io/badge/Gmail-090D16?style=for-the-badge&amp;logo=gmail&amp;logoColor=E2E8F0" alt="Email" /></a>
 </p>
